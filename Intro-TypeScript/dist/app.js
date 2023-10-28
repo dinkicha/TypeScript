@@ -1,2 +1,2 @@
 "use strict";
-let NameOfPersonOne = 'Gosho';
+let NameOfFirstPerson = 'Gosho';
